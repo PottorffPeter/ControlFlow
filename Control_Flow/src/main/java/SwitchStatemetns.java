@@ -1,6 +1,6 @@
 public class SwitchStatemetns {
 
-    public void gradeCalculator() {
+    public void gradeCalculator(int grade) {
 
         switch (grade / 10) {
 
